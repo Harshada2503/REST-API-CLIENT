@@ -31,3 +31,8 @@ Key Requirements
 
 
 5. Error Handling: The program should handle errors gracefully, including API failures, network issues, or unexpected JSON structures.
+
+
+# OUTPUT OF THE TASK : 
+
+![Image](https://github.com/user-attachments/assets/fcf1a6f9-c66f-4bec-aa20-92fbf09b1342)
